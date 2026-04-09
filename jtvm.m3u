@@ -1,22 +1,62 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="joakdtv.jp" tvg-name="NHK G" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png" group-title="Tokyo",NHK G
+https://arva.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="joabdtv.jp" tvg-name="NHK E" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png" group-title="Tokyo",NHK E
+https://arva.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="joaxdtv.jp" tvg-name="NTV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png" group-title="Tokyo",NTV
+https://arva.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="joexdtv.jp" tvg-name="TV Asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png" group-title="Tokyo",TV Asahi
+https://arva.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jorxdtv.jp" tvg-name="TBS" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png" group-title="Tokyo",TBS
+https://arva.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jotxdtv.jp" tvg-name="TV Tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png" group-title="Tokyo",TV Tokyo
+https://arva.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jocxdtv.jp" tvg-name="Fuji TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png" group-title="Tokyo",Fuji TV
+https://arva.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tokyomx1.jp" tvg-name="Tokyo MX1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png" group-title="Tokyo",Tokyo MX1
+https://arva.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tokyomx2.jp" tvg-name="Tokyo MX2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png" group-title="Tokyo",Tokyo MX2
+https://arva.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bstbs.jp" tvg-name="BS TBS" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png" group-title="BS",BS TBS
+https://arva.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="spaceshowertv.jp" tvg-name="Space Shower TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs322.gif" group-title="CS",Space Shower TV
+https://arva.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="mtv.jp" tvg-name="MTV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs323.gif" group-title="CS",MTV
+https://arva.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="mnet.jp" tvg-name="Mnet" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif" group-title="CS",Mnet
+https://arva.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tbschannel1.jp" tvg-name="TBS Channel 1" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs296.gif" group-title="CS",TBS Channel 1
+https://arva.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tbschannel2.jp" tvg-name="TBS Channel 2" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs297.gif" group-title="CS",TBS Channel 2
+https://arva.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="musicontv.jp" tvg-name="Music On! TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs325.gif" group-title="CS",Music On! TV
+https://arva.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="musicjapantv.jp" tvg-name="Music Japan TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/639.gif" group-title="CS",Music Japan TV
+https://arva.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="cnnj.jp" tvg-name="CNNj" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs354.gif" group-title="CS",CNNj
+https://arva.netgenx.site/stream/jp/cnnj/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bbc_news" tvg-name="BBC News" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs353.gif" group-title="CS",BBC News
+https://arva.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tbsnewscs.jp" tvg-name="TBS News" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif" group-title="CS",TBS News
+https://arva.netgenx.site/stream/jp/tbs_news/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="NHK総合.jp" tvg-name="NHK総合" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="地上波",NHK総合
-http://nl.utako.moe/NHK_G/index.m3u8
+https://arva.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="NHKEテレ.jp" tvg-name="NHK Eテレ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="地上波",NHK Eテレ
-http://nl.utako.moe/NHK_E/index.m3u8
+https://arva.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="NTV.jp" tvg-name="日本テレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="地上波",日本テレビ
-http://nl.utako.moe/Nippon_TV/index.m3u8
+https://arva.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TBS.jp" tvg-name="TBSテレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="地上波",TBSテレビ
-http://nl.utako.moe/TBS/index.m3u8
+https://arva.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="フジテレビ.jp" tvg-name="フジテレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="地上波",フジテレビ
-http://nl.utako.moe/Fuji_TV/index.m3u8
+https://arva.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-name="テレビ朝日" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="地上波",テレビ朝日
-http://nl.utako.moe/TV_Asahi/index.m3u8
+https://arva.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-name="テレビ東京" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="地上波",テレビ東京
-http://nl.utako.moe/TV_Tokyo/index.m3u8
+https://arva.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TOKYO・MX.jp" tvg-name="TOKYO MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="地上波",TOKYO MX1
-http://nl.utako.moe/Tokyo_MX1/index.m3u8
+https://arva.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TOKYO・MX.jp" tvg-name="TOKYO MX2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="地上波",TOKYO MX2
-http://nl.utako.moe/Tokyo_MX2/index.m3u8
+https://arva.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="JORXDTV.jp@SD" tvg-name="JORX-DTV" tvg-logo="" group-title="",JORX-DTV
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="日本 / Japan",TOKYO MX チャンネル

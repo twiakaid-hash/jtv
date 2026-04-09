@@ -1,22 +1,186 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="joakdtv.jp" tvg-name="NHK G" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png" group-title="Tokyo",NHK G
+https://arva.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="joabdtv.jp" tvg-name="NHK E" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png" group-title="Tokyo",NHK E
+https://arva.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="joaxdtv.jp" tvg-name="NTV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png" group-title="Tokyo",NTV
+https://arva.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="joexdtv.jp" tvg-name="TV Asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png" group-title="Tokyo",TV Asahi
+https://arva.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jorxdtv.jp" tvg-name="TBS" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png" group-title="Tokyo",TBS
+https://arva.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jotxdtv.jp" tvg-name="TV Tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png" group-title="Tokyo",TV Tokyo
+https://arva.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jocxdtv.jp" tvg-name="Fuji TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png" group-title="Tokyo",Fuji TV
+https://arva.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tokyomx1.jp" tvg-name="Tokyo MX1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png" group-title="Tokyo",Tokyo MX1
+https://arva.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tokyomx2.jp" tvg-name="Tokyo MX2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png" group-title="Tokyo",Tokyo MX2
+https://arva.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="nhkbs.jp" tvg-name="NHK BS" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png" group-title="BS",NHK BS
+https://arva.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bsnippontv.jp" tvg-name="BS NTV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" group-title="BS",BS NTV
+https://arva.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bsasahi.jp" tvg-name="BS Asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png" group-title="BS",BS Asahi
+https://arva.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bstbs.jp" tvg-name="BS TBS" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png" group-title="BS",BS TBS
+https://arva.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bstvtokyo.jp" tvg-name="BS TV Tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png" group-title="BS",BS TV Tokyo
+https://arva.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bsfuji.jp" tvg-name="BS Fuji" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png" group-title="BS",BS Fuji
+https://arva.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs10_jp" tvg-name="BS 10" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png" group-title="BS",BS 10
+https://arva.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs11.jp" tvg-name="BS 11" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png" group-title="BS",BS 11
+https://arva.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs12トゥエルビ_jp" tvg-name="BS 12" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png" group-title="BS",BS 12
+https://arva.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="nhkbsp4k.jp" tvg-name="NHK BS4K" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png" group-title="BS",NHK BS4K
+https://arva.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="wowowprime.jp" tvg-name="WOWOW Prime" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif" group-title="BS",WOWOW Prime
+https://arva.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="wowowcinema.jp" tvg-name="WOWOW Cinema" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs193.gif" group-title="BS",WOWOW Cinema
+https://arva.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?&mode=hls
+#EXTINF:-1 tvg-id="wowowlive.jp" tvg-name="WOWOW Live" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif" group-title="BS",WOWOW Live
+https://arva.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?&mode=hls
+#EXTINF:-1 tvg-id="bs10プレミアム_jp" tvg-name="BS 10 Premium" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs201.gif" group-title="BS",BS 10 Premium
+https://arva.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jsports1.jp" tvg-name="JSport 1" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs242.gif" group-title="BS",JSport 1
+https://arva.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jsports2.jp" tvg-name="JSport 2" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs243.gif" group-title="BS",JSport 2
+https://arva.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jsports3.jp" tvg-name="JSport 3" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs244.gif" group-title="BS",JSport 3
+https://arva.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jsports4.jp" tvg-name="JSport 4" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs245.gif" group-title="BS",JSport 4
+https://arva.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="greenchannel.jp" tvg-name="Green Channel" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif" group-title="BS",Green Channel
+https://arva.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="animax.in" tvg-name="Animax" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs236.gif" group-title="BS",Animax
+https://arva.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="nihoneigasenmonchannel.jp" tvg-name="Nihon Eiga Senmon" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs255.gif" group-title="BS",Nihon Eiga Senmon
+https://arva.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="wowwowplus.jp" tvg-name="WOWOW Plus" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif" group-title="BS",WOWOW Plus
+https://arva.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="fishingvision.jp" tvg-name="Fishing Vision" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs251.gif" group-title="BS",Fishing Vision
+https://arva.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="j-com-bs_jp" tvg-name="Jcom BS" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png" group-title="BS",Jcom BS
+https://arva.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="gaorasports.jp" tvg-name="Gaora Sports" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs254.gif" group-title="CS",Gaora Sports
+https://arva.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="atx.jp" tvg-name="AT-X" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif" group-title="CS",AT-X
+https://arva.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="spaceshowertv.jp" tvg-name="Space Shower TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs322.gif" group-title="CS",Space Shower TV
+https://arva.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="mtv.jp" tvg-name="MTV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs323.gif" group-title="CS",MTV
+https://arva.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="mnet.jp" tvg-name="Mnet" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif" group-title="CS",Mnet
+https://arva.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="superdramatv.jp" tvg-name="Super Drama TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/647.gif" group-title="CS",Super Drama TV
+https://arva.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="thecinema.jp" tvg-name="The Cinema" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif" group-title="CS",The Cinema
+https://arva.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="kayopops.jp" tvg-name="Kayo Pops" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs329.gif" group-title="CS",Kayo Pops
+https://arva.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="kidsstation.jp" tvg-name="Kids Station" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs330.gif" group-title="CS",Kids Station
+https://arva.netgenx.site/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="cartoonnetwork.jp" tvg-name="Cartoon Network Japan" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs331.gif" group-title="CS",Cartoon Network Japan
+https://arva.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="nittelegplus.jp" tvg-name="NTV G+" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs257.gif" group-title="CS",NTV G+
+https://arva.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="nippontvplus.jp" tvg-name="NTV Plus" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif" group-title="CS",NTV Plus
+https://arva.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="familygekijyo.jp" tvg-name="Family Gekijo" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs293.gif" group-title="CS",Family Gekijo
+https://arva.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="mondotv.jp" tvg-name="Mondo TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs295.gif" group-title="CS",Mondo TV
+https://arva.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tbschannel1.jp" tvg-name="TBS Channel 1" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs296.gif" group-title="CS",TBS Channel 1
+https://arva.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tbschannel2.jp" tvg-name="TBS Channel 2" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs297.gif" group-title="CS",TBS Channel 2
+https://arva.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tvasahichannel1.jp" tvg-name="TV Asahi Channel 1" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs298.gif" group-title="CS",TV Asahi Channel 1
+https://arva.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tvasahichannel2.jp" tvg-name="TV Asahi Channel 2" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs299.gif" group-title="CS",TV Asahi Channel 2
+https://arva.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="fujitvone.jp" tvg-name="Fuji TV One" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs307.gif" group-title="CS",Fuji TV One
+https://arva.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="fujitvtwo.jp" tvg-name="Fuji TV Two" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs308.gif" group-title="CS",Fuji TV Two
+https://arva.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="fujitvnext.jp" tvg-name="Fuji TV Next" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs309.gif" group-title="CS",Fuji TV Next
+https://arva.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="channelneco.jp" tvg-name="Neco Channel" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs223.gif" group-title="CS",Neco Channel
+https://arva.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="toeichannel.jp" tvg-name="Toei Channel" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs218.gif" group-title="CS",Toei Channel
+https://arva.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="fightingtvsamurai.jp" tvg-name="Fighting TV Samurai" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/600.gif" group-title="CS",Fighting TV Samurai
+https://arva.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="entermeitele.jp" tvg-name="Me-Tele Next" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs301.gif" group-title="CS",Me-Tele Next
+https://arva.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="sportsliveplus.jp" tvg-name="Sport live plus" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/584.gif" group-title="CS",Sport live plus
+https://arva.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="igoshogichannel.jp" tvg-name="Shogi Channel" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs363.gif" group-title="CS",Shogi Channel
+https://arva.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="homedramachannel.jp" tvg-name="Home Drama Channel" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs294.gif" group-title="CS",Home Drama Channel
+https://arva.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="channelginga.jp" tvg-name="Channel Ginga" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs305.gif" group-title="CS",Channel Ginga
+https://arva.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tabichannel.jp" tvg-name="Tabi Channel" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/544.gif" group-title="CS",Tabi Channel
+https://arva.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tetsudochannel.jp" tvg-name="Tetsudo Channel" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif" group-title="CS",Tetsudo Channel
+https://arva.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="musicontv.jp" tvg-name="Music On! TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs325.gif" group-title="CS",Music On! TV
+https://arva.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="mysterychannel.jp" tvg-name="Mystery Channel" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs316.gif" group-title="CS",Mystery Channel
+https://arva.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="shopchannel.jp" tvg-name="Shop Channel" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/523.gif" group-title="CS",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="qvc.jp" tvg-name="QVC" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif" group-title="CS",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="jidaigekisenmonchannel.jp" tvg-name="Jidaigeki Senmon" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs292.gif" group-title="CS",Jidaigeki Senmon
+https://arva.netgenx.site/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="eiseigekijo.jp" tvg-name="Eisei Gekijo" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif" group-title="CS",Eisei Gekijo
+https://arva.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="movieplus.jp" tvg-name="Movie Plus" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs240.gif" group-title="CS",Movie Plus
+https://arva.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="golfnetwork.jp" tvg-name="Golf Network" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs262.gif" group-title="CS",Golf Network
+https://arva.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="musicjapantv.jp" tvg-name="Music Japan TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/639.gif" group-title="CS",Music Japan TV
+https://arva.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="lalatv.jp" tvg-name="LaLa TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs314.gif" group-title="CS",LaLa TV
+https://arva.netgenx.site/stream/jp/lala_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="takarazukaskystage.jp" tvg-name="Takarazuka Sky Stage" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs290.gif" group-title="CS",Takarazuka Sky Stage
+https://arva.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="nationalgeographicjapan.jp" tvg-name="National Geographic Japan" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs343.gif" group-title="CS",National Geographic Japan
+https://arva.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="disneyjunior.jp" tvg-name="Disney Junior" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs339.gif" group-title="CS",Disney Junior
+https://arva.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="discoverychannelsoutheast.sg@japan" tvg-name="Discovery Channel" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs340.gif" group-title="CS",Discovery Channel
+https://arva.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="animalplanet.jp" tvg-name="Animal Planet" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs341.gif" group-title="CS",Animal Planet
+https://arva.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="cnnj.jp" tvg-name="CNNj" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs354.gif" group-title="CS",CNNj
+https://arva.netgenx.site/stream/jp/cnnj/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bbc_news" tvg-name="BBC News" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs353.gif" group-title="CS",BBC News
+https://arva.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="tbsnewscs.jp" tvg-name="TBS News" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif" group-title="CS",TBS News
+https://arva.netgenx.site/stream/jp/tbs_news/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="NHK総合.jp" tvg-name="NHK総合" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="地上波",NHK総合
-http://nl.utako.moe/NHK_G/index.m3u8
+https://arva.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="NHKEテレ.jp" tvg-name="NHK Eテレ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="地上波",NHK Eテレ
-http://nl.utako.moe/NHK_E/index.m3u8
+https://arva.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="NTV.jp" tvg-name="日本テレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="地上波",日本テレビ
-http://nl.utako.moe/Nippon_TV/index.m3u8
+https://arva.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TBS.jp" tvg-name="TBSテレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="地上波",TBSテレビ
-http://nl.utako.moe/TBS/index.m3u8
+https://arva.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="フジテレビ.jp" tvg-name="フジテレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="地上波",フジテレビ
-http://nl.utako.moe/Fuji_TV/index.m3u8
+https://arva.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-name="テレビ朝日" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="地上波",テレビ朝日
-http://nl.utako.moe/TV_Asahi/index.m3u8
+https://arva.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-name="テレビ東京" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="地上波",テレビ東京
-http://nl.utako.moe/TV_Tokyo/index.m3u8
+https://arva.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TOKYO・MX.jp" tvg-name="TOKYO MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="地上波",TOKYO MX1
-http://nl.utako.moe/Tokyo_MX1/index.m3u8
+https://arva.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TOKYO・MX.jp" tvg-name="TOKYO MX2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="地上波",TOKYO MX2
-http://nl.utako.moe/Tokyo_MX2/index.m3u8
+https://arva.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" tvg-name="CGNTV Japan (1080p)" tvg-logo="" group-title="",CGNTV Japan (1080p)
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gaki no Tsukai (English Subs) (720p)" tvg-logo="" group-title="",Gaki no Tsukai (English Subs) (720p)
@@ -39,8 +203,6 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="ショップチャンネル" tvg-logo="https://i.imgur.com/CCMAF7W.png" group-title="日本 / Japan",ショップチャンネル
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="QVC.jp" tvg-name="QVC" tvg-logo="https://i.imgur.com/FznYA39.png" group-title="日本 / Japan",QVC
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" group-title="日本 / Japan",NHK WORLD JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-id="rch_45" tvg-name="ウェザーニュースLiVE" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" group-title="日本 / Japan",ウェザーニュースLiVE
@@ -109,11 +271,13 @@ https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGN
 https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" tvg-logo="" group-title="Japan",NHK World Premium
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" tvg-logo="" group-title="Japan",Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="axn.jp" tvg-name="Action Channel(AXN)" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs311.gif" group-title="CS",Action Channel(AXN)
+https://arva.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="" tvg-name="Fuji TV (540p)" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="japan",Fuji TV (540p)
 https://fujitv4.mov3.co/hls/fujitv.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="Gaki no Tsukai (English Subs) (720p)" tvg-logo="" group-title="japan",Gaki no Tsukai (English Subs) (720p)
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="NHK World-Japan HD" tvg-logo="" group-title="japan",NHK World-Japan HD
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="Nippon TV (720p) [Geo-blocked]" tvg-logo="" group-title="japan",Nippon TV (720p) [Geo-blocked]
 https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8?checkedby:iptvcat.com
